@@ -20,6 +20,6 @@ setup(
     author='Keshav',
     author_email='ks7190782@gmail.com',
     packages=find_packages(),
-    install_requires=['pandas','numpy','seaborn']
+    install_requires=['pandas','numpy','seaborn','scikit-learn','catboost','xgboost','Flask']
 
 )
